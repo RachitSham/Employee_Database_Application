@@ -4,8 +4,6 @@
 
 🔹 Built a Console-based Employee CRUD using JDBC with MySQL
 
-🔹 Objective: Test users with multiple-choice questions, collect answers, and provide score + feedback.
-
 🌟 Code Flow:
 
 🔹 Packages Division
